@@ -1,0 +1,7 @@
+C:\Users\furka\source\repos\c#\donguToplamiki\donguToplamiki\bin\Debug\donguToplamiki.exe.config
+C:\Users\furka\source\repos\c#\donguToplamiki\donguToplamiki\bin\Debug\donguToplamiki.exe
+C:\Users\furka\source\repos\c#\donguToplamiki\donguToplamiki\bin\Debug\donguToplamiki.pdb
+C:\Users\furka\source\repos\c#\donguToplamiki\donguToplamiki\obj\Debug\donguToplamiki.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\c#\donguToplamiki\donguToplamiki\obj\Debug\donguToplamiki.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\c#\donguToplamiki\donguToplamiki\obj\Debug\donguToplamiki.exe
+C:\Users\furka\source\repos\c#\donguToplamiki\donguToplamiki\obj\Debug\donguToplamiki.pdb
