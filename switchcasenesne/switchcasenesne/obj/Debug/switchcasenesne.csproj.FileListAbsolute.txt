@@ -1,0 +1,7 @@
+C:\Users\furka\source\repos\c#\switchcasenesne\switchcasenesne\bin\Debug\switchcasenesne.exe.config
+C:\Users\furka\source\repos\c#\switchcasenesne\switchcasenesne\bin\Debug\switchcasenesne.exe
+C:\Users\furka\source\repos\c#\switchcasenesne\switchcasenesne\bin\Debug\switchcasenesne.pdb
+C:\Users\furka\source\repos\c#\switchcasenesne\switchcasenesne\obj\Debug\switchcasenesne.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\c#\switchcasenesne\switchcasenesne\obj\Debug\switchcasenesne.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\c#\switchcasenesne\switchcasenesne\obj\Debug\switchcasenesne.exe
+C:\Users\furka\source\repos\c#\switchcasenesne\switchcasenesne\obj\Debug\switchcasenesne.pdb
