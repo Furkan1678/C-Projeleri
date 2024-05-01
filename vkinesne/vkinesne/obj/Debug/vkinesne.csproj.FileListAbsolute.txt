@@ -1,0 +1,7 @@
+C:\Users\furka\source\repos\c#\vkinesne\vkinesne\bin\Debug\vkinesne.exe.config
+C:\Users\furka\source\repos\c#\vkinesne\vkinesne\bin\Debug\vkinesne.exe
+C:\Users\furka\source\repos\c#\vkinesne\vkinesne\bin\Debug\vkinesne.pdb
+C:\Users\furka\source\repos\c#\vkinesne\vkinesne\obj\Debug\vkinesne.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\c#\vkinesne\vkinesne\obj\Debug\vkinesne.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\c#\vkinesne\vkinesne\obj\Debug\vkinesne.exe
+C:\Users\furka\source\repos\c#\vkinesne\vkinesne\obj\Debug\vkinesne.pdb
